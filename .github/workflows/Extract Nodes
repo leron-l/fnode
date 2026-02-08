@@ -1,4 +1,4 @@
-name: Extract Nodes Daily  from free-nodes/v2rayfree
+name: Extract Nodes Daily  from free-nodes/v2rayfree.
 
 on:
   schedule:
